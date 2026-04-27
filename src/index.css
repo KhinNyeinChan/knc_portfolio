@@ -24,6 +24,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: clamp(14px, 0.3vw + 13px, 16.5px);
 }
 
 body {

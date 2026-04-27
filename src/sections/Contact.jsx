@@ -25,7 +25,7 @@ function Contact() {
         </p>
         <a
           href={`mailto:${profile.email}`}
-          className="mt-4 block break-all font-display text-xl tracking-tight text-white transition hover:text-sky-300 sm:text-2xl"
+          className="mt-4 block break-all font-display text-[1.3125rem] tracking-tight text-white transition hover:text-sky-300"
         >
           {profile.email}
         </a>
